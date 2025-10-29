@@ -123,6 +123,13 @@ docker-compose up --build
 
 ---
 
+🎥 Demonstração de funcionalidades
+
+<p align="center">
+  <img src="https://github.com/alisson-C-angular-php/to-do-list/blob/main/Screencast%20from%202025-10-29%2016-03-42.gif?raw=true" width="700" alt="Demonstração do sistema To-Do List">
+</p>
+
+
 ## 🔧 Observações
 
 * O CSS gerado pelo Tailwind está em `public/css/app.css` e servido diretamente pelo Nginx.
